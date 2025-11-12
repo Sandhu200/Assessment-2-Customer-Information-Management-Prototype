@@ -1,0 +1,14 @@
+D:\Talwinder_CLI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.exe
+D:\Talwinder_CLI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.deps.json
+D:\Talwinder_CLI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.runtimeconfig.json
+D:\Talwinder_CLI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.dll
+D:\Talwinder_CLI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.pdb
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.AssemblyInfoInputs.cache
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.AssemblyInfo.cs
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.csproj.CoreCompileInputs.cache
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.dll
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\refint\Talwinder_CLI.dll
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.pdb
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.genruntimeconfig.cache
+D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\ref\Talwinder_CLI.dll
