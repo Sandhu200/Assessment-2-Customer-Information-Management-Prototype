@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Talwinder_CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a76d96f360310250bdeafad757c4fa2b745b8ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Talwinder_CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Talwinder_CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

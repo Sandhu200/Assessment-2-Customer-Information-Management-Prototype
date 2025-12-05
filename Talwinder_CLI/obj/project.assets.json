@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Talwinder_CLI\\Talwinder_CLI\\Talwinder_CLI.csproj",
+      "projectUniqueName": "D:\\IT7742_Analysis and Prototyping\\Talwinder_CLI\\Talwinder_CLI.csproj",
       "projectName": "Talwinder_CLI",
-      "projectPath": "D:\\Talwinder_CLI\\Talwinder_CLI\\Talwinder_CLI.csproj",
+      "projectPath": "D:\\IT7742_Analysis and Prototyping\\Talwinder_CLI\\Talwinder_CLI.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Talwinder_CLI\\Talwinder_CLI\\obj\\",
+      "outputPath": "D:\\IT7742_Analysis and Prototyping\\Talwinder_CLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

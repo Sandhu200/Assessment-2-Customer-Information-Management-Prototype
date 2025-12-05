@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Talwinder_CLI\\",
+  "WorkspaceRootPath": "D:\\GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\talwinder_cli\\talwinder_cli\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\gui\\talwinder_cli\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|solutionrelative:talwinder_cli\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\talwinder_cli\\talwinder_cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\gui\\talwinder_cli\\omniaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|solutionrelative:talwinder_cli\\omniaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\gui\\talwinder_cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|solutionrelative:talwinder_cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\talwinder_cli\\talwinder_cli\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|d:\\gui\\talwinder_cli\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E1D40E-62B5-4CDF-AF06-5CDD57873C93}|Talwinder_CLI\\Talwinder_CLI.csproj|solutionrelative:talwinder_cli\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,46 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OmniAccount.cs",
+              "DocumentMoniker": "D:\\GUI\\Talwinder_CLI\\OmniAccount.cs",
+              "RelativeDocumentMoniker": "Talwinder_CLI\\OmniAccount.cs",
+              "ToolTip": "D:\\GUI\\Talwinder_CLI\\OmniAccount.cs",
+              "RelativeToolTip": "Talwinder_CLI\\OmniAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:57:05.543Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Talwinder_CLI\\Talwinder_CLI\\Account.cs",
+              "DocumentMoniker": "D:\\GUI\\Talwinder_CLI\\Account.cs",
               "RelativeDocumentMoniker": "Talwinder_CLI\\Account.cs",
-              "ToolTip": "D:\\Talwinder_CLI\\Talwinder_CLI\\Account.cs",
+              "ToolTip": "D:\\GUI\\Talwinder_CLI\\Account.cs",
               "RelativeToolTip": "Talwinder_CLI\\Account.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T06:55:27.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Talwinder_CLI\\Talwinder_CLI\\Customer.cs",
+              "DocumentMoniker": "D:\\GUI\\Talwinder_CLI\\Customer.cs",
               "RelativeDocumentMoniker": "Talwinder_CLI\\Customer.cs",
-              "ToolTip": "D:\\Talwinder_CLI\\Talwinder_CLI\\Customer.cs",
+              "ToolTip": "D:\\GUI\\Talwinder_CLI\\Customer.cs",
               "RelativeToolTip": "Talwinder_CLI\\Customer.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T06:48:54.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T06:48:54.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Talwinder_CLI\\Talwinder_CLI\\Program.cs",
+              "DocumentMoniker": "D:\\GUI\\Talwinder_CLI\\Program.cs",
               "RelativeDocumentMoniker": "Talwinder_CLI\\Program.cs",
-              "ToolTip": "D:\\Talwinder_CLI\\Talwinder_CLI\\Program.cs",
+              "ToolTip": "D:\\GUI\\Talwinder_CLI\\Program.cs",
               "RelativeToolTip": "Talwinder_CLI\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:21:22.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:21:22.418Z"
             }
           ]
         }

@@ -1,3 +1,5 @@
+using Talwinder_CLI;
+
 // --- Everyday Account ---
 // The most basic account.
 public class EverydayAccount : Account
@@ -18,7 +20,7 @@ public class EverydayAccount : Account
         else
         {
             // No fee for failed transactions on this account type.
-            return $"Everyday {Id}; Withdrawal Attempt: ${amount:F2}; Transaction Status: Failed; Updated Balance: ${Balance:F2};";
+            throw new FailedWithdrawalException($"Everyday {Id}; Withdrawal Attempt: ${amount:F2}; Transaction Status: Failed; Updated Balance: ${Balance:F2};");
         }
     }
 

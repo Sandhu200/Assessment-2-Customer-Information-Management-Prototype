@@ -1,3 +1,5 @@
+using Talwinder_CLI;
+
 // --- Investment Account ---
 // An account for investing, has interest but no overdraft.
 public class InvestmentAccount : Account
@@ -32,7 +34,7 @@ public class InvestmentAccount : Account
                 fee = FailedTransactionFee;
             }
             Balance -= fee;
-            return $"Investment {Id}; Withdrawal Attempt: ${amount:F2}; Transaction Status: Failed; Fee: ${fee:F2}; Updated Balance: ${Balance:F2};";
+            throw new FailedWithdrawalException($"Investment {Id}; Withdrawal Attempt: ${amount:F2}; Transaction Status: Failed; Fee: ${fee:F2}; Updated Balance: ${Balance:F2};");
         }
     }
 

@@ -1,3 +1,5 @@
+using Talwinder_CLI;
+
 // --- Omni Account ---
 // A fancy account with overdraft and special interest rules.
 public class OmniAccount : Account
@@ -34,7 +36,7 @@ public class OmniAccount : Account
                 fee = FailedTransactionFee;
             }
             Balance -= fee;
-            return $"Omni {Id}; Withdrawal Attempt: ${amount:F2}; Transaction Status: Failed; Fee: ${fee:F2}; Updated Balance: ${Balance:F2};";
+            throw new FailedWithdrawalException($"Omni {Id}; Withdrawal Attempt: ${amount:F2}; Transaction Status: Failed; Fee: ${fee:F2}; Updated Balance: ${Balance:F2};");
         }
     }
 

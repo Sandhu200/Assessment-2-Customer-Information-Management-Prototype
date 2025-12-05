@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
+using Talwinder_CLI;
 
 public class Program
 {
@@ -10,8 +11,8 @@ public class Program
         CultureInfo.CurrentCulture = new CultureInfo("en-US", false);
 
         // We'll create a couple of accounts for the user to play with.
-        var customer = new Customer { CustomerNumber = 1, Name = "Test User", IsStaff = false };
-        var staffCustomer = new Customer { CustomerNumber = 2, Name = "Test Staff", IsStaff = true };
+        var customer = new Customer(1, "Test User", "1234567890", false);
+        var staffCustomer = new Customer(2, "Test Staff", "0987654321", true);
         
         var accounts = new List<Account>
         {
@@ -78,8 +79,15 @@ public class Program
         }
         else if (choice == "withdraw")
         {
-            string result = selectedAccount.Withdraw(amount);
-            Console.WriteLine(result); // The Withdraw method already returns a formatted string.
+            try
+            {
+                string result = selectedAccount.Withdraw(amount);
+                Console.WriteLine(result); // The Withdraw method still returns a formatted string on success.
+            }
+            catch (FailedWithdrawalException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
         else
         {

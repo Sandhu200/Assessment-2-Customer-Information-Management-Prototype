@@ -12,3 +12,33 @@ D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\refint\Talwinder_CLI.dll
 D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.pdb
 D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.genruntimeconfig.cache
 D:\Talwinder_CLI\Talwinder_CLI\obj\Debug\net8.0\ref\Talwinder_CLI.dll
+D:\GUI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.exe
+D:\GUI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.deps.json
+D:\GUI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.runtimeconfig.json
+D:\GUI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.dll
+D:\GUI\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.pdb
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.AssemblyInfoInputs.cache
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.AssemblyInfo.cs
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.csproj.CoreCompileInputs.cache
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.sourcelink.json
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.dll
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\refint\Talwinder_CLI.dll
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.pdb
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.genruntimeconfig.cache
+D:\GUI\Talwinder_CLI\obj\Debug\net8.0\ref\Talwinder_CLI.dll
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.AssemblyInfoInputs.cache
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.AssemblyInfo.cs
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.csproj.CoreCompileInputs.cache
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.sourcelink.json
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.dll
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\refint\Talwinder_CLI.dll
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.pdb
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.exe
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.deps.json
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.runtimeconfig.json
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.dll
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\bin\Debug\net8.0\Talwinder_CLI.pdb
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\Talwinder_CLI.genruntimeconfig.cache
+D:\IT7742_Analysis and Prototyping\Talwinder_CLI\obj\Debug\net8.0\ref\Talwinder_CLI.dll
