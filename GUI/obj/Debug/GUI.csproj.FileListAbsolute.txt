@@ -9,3 +9,14 @@ D:\GUI\GUI\bin\Debug\GUI.pdb
 D:\GUI\GUI\obj\Debug\GUI.exe
 D:\GUI\GUI\obj\Debug\GUI.pdb
 D:\GUI\GUI\obj\Debug\GUI.exe.config
+D:\IT7742_Analysis and Prototyping\GUI\bin\Debug\GUI.exe.config
+D:\IT7742_Analysis and Prototyping\GUI\bin\Debug\GUI.exe
+D:\IT7742_Analysis and Prototyping\GUI\bin\Debug\GUI.pdb
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.exe.config
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.Form1.resources
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.exe
+D:\IT7742_Analysis and Prototyping\GUI\obj\Debug\GUI.pdb

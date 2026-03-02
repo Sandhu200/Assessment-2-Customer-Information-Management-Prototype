@@ -38,6 +38,9 @@
             this.button_INFO = new System.Windows.Forms.Button();
             this.button_INTEREST = new System.Windows.Forms.Button();
             this.checkBox_STAFF = new System.Windows.Forms.CheckBox();
+            this.button_CUSTOMERS = new System.Windows.Forms.Button();
+            this.comboBox_CUSTOMER = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // listBox1
@@ -61,14 +64,14 @@
             // comboBox_ACCOUNT
             // 
             this.comboBox_ACCOUNT.FormattingEnabled = true;
-            this.comboBox_ACCOUNT.Location = new System.Drawing.Point(12, 39);
+            this.comboBox_ACCOUNT.Location = new System.Drawing.Point(12, 100);
             this.comboBox_ACCOUNT.Name = "comboBox_ACCOUNT";
             this.comboBox_ACCOUNT.Size = new System.Drawing.Size(201, 21);
             this.comboBox_ACCOUNT.TabIndex = 2;
             // 
             // textBox_AMOUNT
             // 
-            this.textBox_AMOUNT.Location = new System.Drawing.Point(12, 116);
+            this.textBox_AMOUNT.Location = new System.Drawing.Point(12, 160);
             this.textBox_AMOUNT.Name = "textBox_AMOUNT";
             this.textBox_AMOUNT.Size = new System.Drawing.Size(201, 20);
             this.textBox_AMOUNT.TabIndex = 3;
@@ -76,7 +79,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 23);
+            this.label1.Location = new System.Drawing.Point(12, 84);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(87, 13);
             this.label1.TabIndex = 4;
@@ -85,7 +88,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 100);
+            this.label2.Location = new System.Drawing.Point(12, 144);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 13);
             this.label2.TabIndex = 5;
@@ -124,19 +127,50 @@
             // checkBox_STAFF
             // 
             this.checkBox_STAFF.AutoSize = true;
-            this.checkBox_STAFF.Location = new System.Drawing.Point(15, 164);
+            this.checkBox_STAFF.Location = new System.Drawing.Point(15, 190);
             this.checkBox_STAFF.Name = "checkBox_STAFF";
             this.checkBox_STAFF.Size = new System.Drawing.Size(94, 17);
             this.checkBox_STAFF.TabIndex = 9;
             this.checkBox_STAFF.Text = "Is Staff Member";
             this.checkBox_STAFF.UseVisualStyleBackColor = true;
-            this.checkBox_STAFF.CheckedChanged += new System.EventHandler(this.checkBox_STAFF_CheckedChanged);
+            this.checkBox_STAFF.Enabled = false; // Controlled by selected customer
+            // 
+            // button_CUSTOMERS
+            // 
+            this.button_CUSTOMERS.Location = new System.Drawing.Point(12, 340);
+            this.button_CUSTOMERS.Name = "button_CUSTOMERS";
+            this.button_CUSTOMERS.Size = new System.Drawing.Size(253, 35);
+            this.button_CUSTOMERS.TabIndex = 10;
+            this.button_CUSTOMERS.Text = "Manage Customers (MVC)";
+            this.button_CUSTOMERS.UseVisualStyleBackColor = true;
+            this.button_CUSTOMERS.Click += new System.EventHandler(this.button_CUSTOMERS_Click);
+            // 
+            // comboBox_CUSTOMER
+            // 
+            this.comboBox_CUSTOMER.FormattingEnabled = true;
+            this.comboBox_CUSTOMER.Location = new System.Drawing.Point(12, 39);
+            this.comboBox_CUSTOMER.Name = "comboBox_CUSTOMER";
+            this.comboBox_CUSTOMER.Size = new System.Drawing.Size(201, 21);
+            this.comboBox_CUSTOMER.TabIndex = 11;
+            this.comboBox_CUSTOMER.SelectedIndexChanged += new System.EventHandler(this.comboBox_CUSTOMER_SelectedIndexChanged);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(12, 23);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(90, 13);
+            this.label3.TabIndex = 12;
+            this.label3.Text = "Select Customer :";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.comboBox_CUSTOMER);
+            this.Controls.Add(this.button_CUSTOMERS);
             this.Controls.Add(this.checkBox_STAFF);
             this.Controls.Add(this.button_INTEREST);
             this.Controls.Add(this.button_INFO);
@@ -167,6 +201,9 @@
         private System.Windows.Forms.Button button_INFO;
         private System.Windows.Forms.Button button_INTEREST;
         private System.Windows.Forms.CheckBox checkBox_STAFF;
+        private System.Windows.Forms.Button button_CUSTOMERS;
+        private System.Windows.Forms.ComboBox comboBox_CUSTOMER;
+        private System.Windows.Forms.Label label3;
     }
 }
 

@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\IT7742_Analysis and Prototyping\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|d:\\it7742_analysis and prototyping\\gui\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|solutionrelative:gui\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|d:\\it7742_analysis and prototyping\\gui\\everydayaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|solutionrelative:gui\\everydayaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|d:\\it7742_analysis and prototyping\\gui\\omniaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|D:\\IT7742_Analysis and Prototyping\\gui\\omniaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E2A625-FAC5-4DF2-BAA0-1EED00D27E65}|GUI\\GUI.csproj|solutionrelative:gui\\omniaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\CustomerController.cs",
+              "RelativeDocumentMoniker": "GUI\\CustomerController.cs",
+              "ToolTip": "D:\\IT7742_Analysis and Prototyping\\GUI\\CustomerController.cs",
+              "RelativeToolTip": "GUI\\CustomerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:17:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EverydayAccount.cs",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\EverydayAccount.cs",
               "RelativeDocumentMoniker": "GUI\\EverydayAccount.cs",
               "ToolTip": "D:\\IT7742_Analysis and Prototyping\\GUI\\EverydayAccount.cs",
               "RelativeToolTip": "GUI\\EverydayAccount.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T13:32:40.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OmniAccount.cs",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\OmniAccount.cs",
               "RelativeDocumentMoniker": "GUI\\OmniAccount.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "GUI\\OmniAccount.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T05:07:36.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T05:07:36.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\Customer.cs",
               "RelativeDocumentMoniker": "GUI\\Customer.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\App.config",
               "RelativeDocumentMoniker": "GUI\\App.config",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.resx",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\Form1.resx",
               "RelativeDocumentMoniker": "GUI\\Form1.resx",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\IT7742_Analysis and Prototyping\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
